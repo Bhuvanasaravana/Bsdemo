@@ -1,9 +1,6 @@
 hello
-<<<<<<< HEAD
 happy always;be happy
-=======
 happy always;good to see 
->>>>>>> sample
 god is all
 being good 
 making others happy
