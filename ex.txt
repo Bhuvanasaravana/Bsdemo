@@ -1,4 +1,0 @@
-sample file
-adding file to the new branch
-through command prompt
-
